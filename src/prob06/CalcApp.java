@@ -23,13 +23,15 @@ public class CalcApp {
 			int b = Integer.parseInt( tokens[2] );
 			
 			switch( operator ) {
-				case "+" : {
-					//Add add = new Add();
-					//add.setValue( a, b );
-					//int result = add.calculate();
+				case "+" : 
+					/*Add add = new Add();
+					add.setValue( a, b );
+					int result = add.calculate();
+					*/
 					
 					break;
-				}
+					case "-" :
+				
 			}
 		}
 		
